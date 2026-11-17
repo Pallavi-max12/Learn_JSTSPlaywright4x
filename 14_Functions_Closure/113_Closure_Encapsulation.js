@@ -8,4 +8,4 @@ function createUser(name){
 const user = createUser("Pramod");
 console.log(user.getName());
 console.log(user.getSecret());
-console.log(secret);  // Error
+//console.log(secret);  // Error
