@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Generate JavaScript Revision PDF",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"Notebook_Concepts/generate_pdf.cjs"
+			],
+			"isBackground": false
+		}
+	]
+}
